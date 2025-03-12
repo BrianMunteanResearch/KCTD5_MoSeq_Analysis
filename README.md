@@ -17,7 +17,7 @@ To learn more about markerless keypoint tracking with DeepLabCut, refer to the f
 ## How to Use this Repository
 ### Replicate Analysis
 #### Download the Data
-1. Download the data here: [insert link to wherever the files are shared]
+1. Download the data here: http://doi.org/10.5281/zenodo.15012993
 #### Prerequisites
 1. Install Anaconda: https://www.anaconda.com/docs/getting-started/anaconda/install
 2. Install Keypoint Moseq: https://keypoint-moseq.readthedocs.io/en/latest/install.html
