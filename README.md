@@ -1,5 +1,5 @@
 # KCTD5_MoSeq_Analysis
-This repository contains code for the analysis of behavior performed with Keypoint-MoSeq in "KCTD5 tunes neuromodulatory signal decoding in striatal neurons necessary for motor function" [insert link to paper here].
+This repository contains code for the analysis of behavior performed with Keypoint-MoSeq in "KCTD5 tunes neuromodulatory signal decoding in striatal neurons necessary for motor function" 
 
 ## What is This Repository?
 What this repository shows:
