@@ -31,7 +31,7 @@ To learn more about markerless keypoint tracking with DeepLabCut, refer to the f
 5. follow the instructions provided in the file 
 
 ### Configuring the Keypoint-Moseq
-For generating and applying a KPMS model, the we used the Jupyter Notebook found here: https://github.com/dattalab/keypoint-moseq/blob/main/docs/source/modeling.ipynb
+For generating and applying a KPMS model, we used the Jupyter Notebook found here: https://github.com/dattalab/keypoint-moseq/blob/main/docs/source/modeling.ipynb
 - more information about project setup can be found here: https://keypoint-moseq.readthedocs.io/en/latest/modeling.html#
 
 The manual configuration for use of data from a DeepLabCut SuperAnimal pretrained pose estimation model can be found in kpms_jupyter_project_example.ipynb. An example of the config.yml file can be found in config_example.yml. 
