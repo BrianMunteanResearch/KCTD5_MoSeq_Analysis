@@ -30,7 +30,7 @@ To learn more about markerless keypoint tracking with DeepLabCut, refer to the f
 4. Make sure you're using the kernel associated with your keypoint-moseq conda environment and open analysis.ipynb
 5. follow the instructions provided in the file 
 
-### Configuring the Keypoint-Moseq
+### Configuring the Keypoint-Moseq Project
 For generating and applying a KPMS model, we used the Jupyter Notebook found here: https://github.com/dattalab/keypoint-moseq/blob/main/docs/source/modeling.ipynb
 - more information about project setup can be found here: https://keypoint-moseq.readthedocs.io/en/latest/modeling.html#
 
