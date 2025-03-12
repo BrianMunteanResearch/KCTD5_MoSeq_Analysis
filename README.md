@@ -15,16 +15,23 @@ To learn more about markerless keypoint tracking with DeepLabCut, refer to the f
 - https://www.mackenziemathislab.org/deeplabcut
 
 ## How to Use this Repository
-### Download the Data
+### Replicate Analysis
+#### Download the Data
 1. Download the data here: [insert link to wherever the files are shared]
-### Prerequisites
+#### Prerequisites
 1. Install Anaconda: https://www.anaconda.com/docs/getting-started/anaconda/install
 2. Install Keypoint Moseq: https://keypoint-moseq.readthedocs.io/en/latest/install.html
    - For the purposes of repeating the analysis in analysis.ipynb using the data provided, the CPU version should be adequate
-### Analysis
+#### Analysis
 1. Locate the downloaded data on your machine and make sure the files have been extracted
    - Do not change the organization of files inside of the folder
 2. Download analysis.ipynb
 3. open the anaconda prompt and type "jupyter lab" to open jupyter lab
 4. Make sure you're using the kernel associated with your keypoint-moseq conda environment and open analysis.ipynb
 5. follow the instructions provided in the file 
+
+### Configuring the Keypoint-Moseq
+For generating and applying a KPMS model, the we used the Jupyter Notebook found here: https://github.com/dattalab/keypoint-moseq/blob/main/docs/source/modeling.ipynb
+- more information about project setup can be found here: https://keypoint-moseq.readthedocs.io/en/latest/modeling.html#
+
+The manual configuration for use of data from a DeepLabCut SuperAnimal pretrained pose estimation model can be found in kpms_jupyter_project_example.ipynb. An example of the config.yml file can be found in config_example.yml. 
